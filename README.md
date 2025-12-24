@@ -2,8 +2,8 @@
 
 > **An advanced sprite animation engine running in standard MS-DOS VGA Text Mode (80x50), featuring sub-pixel positioning and hardware-accelerated compositing.**
 
-![VGA Text Mode Demo](https://img.youtube.com/vi/CfdRuBoJMGQ/0.jpg)
-*(Replace with your YouTube video thumbnail or a screenshot)*
+![VGA Text Mode Demo]
+(https://img.youtube.com/vi/CfdRuBoJMGQ/0.jpg)
 
 ## Overview
 
@@ -70,4 +70,5 @@ This project is written in **x86 Assembly** for **Borland Turbo Assembler (TASM)
 
 ---
 *Created with ❤️ for MS-DOS.*
+
 
